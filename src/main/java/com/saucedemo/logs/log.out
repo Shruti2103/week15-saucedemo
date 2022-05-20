@@ -1,0 +1,13 @@
+2022-05-18 18:05:317 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 18:05:264 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:692 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:956 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:358 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:226 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:288 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:116 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:475 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:479 INFO  FinishPage :25 - Clicking on finish Button [[ChromeDriver: chrome on WINDOWS (2d9281f0ff9c16c7f1297503433be2b8)] -> xpath: //button[@id='finish']]
+2022-05-18 19:05:456 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 19:05:84 INFO  FinishPage :25 - Clicking on finish Button [[ChromeDriver: chrome on WINDOWS (7b0f6d2bd9050fd161d0765c49b1f727)] -> xpath: //button[@id='finish']]
+2022-05-18 19:05:148 INFO  ThankyouCheckoutCompletePage :23 - getting Thankyou Message text  [[ChromeDriver: chrome on WINDOWS (7b0f6d2bd9050fd161d0765c49b1f727)] -> xpath: //h2[@class='complete-header']]
